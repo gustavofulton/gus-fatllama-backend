@@ -28,7 +28,7 @@ Finally, the algorithm sorts the data based on the distance calculated and then 
 ## Performance
 Here is a screenshot of a performance test
 
-![Alt text](,/PerformanceTest.png?raw=true "Performance Test")
+![Alt text](./PerformanceTest.png?raw=true "Performance Test")
 
 
 
