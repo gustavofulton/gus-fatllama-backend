@@ -26,10 +26,11 @@ After getting all the results from the database, the algorithm then calculates t
 Finally, the algorithm sorts the data based on the distance calculated and then sends the sorted array back and close the connection.
 
 ## Performance
-Here is a screenshot of a performance test
+Here is a screenshot of a performance test.
 
 ![Alt text](./PerformanceTest.png?raw=true "Performance Test")
 
+As seen, the algorithm created supports around 405 requests/second, which is an okay number for its simplicity. It can be significantly improved, mainly by using a more efficient approach to calculate the closest items.
 
 
 ## Checklist for Challenge
