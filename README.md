@@ -2,7 +2,7 @@
 ## Running it locally
 For this challenge, I chose to use node.js as the main framework. To run it locally, make sure you have [Node.js](http://nodejs.org/) installed.
 ```sh
-cd gus-fatlama-backend
+cd gus-fl-backend
 npm install
 npm start
 ```
